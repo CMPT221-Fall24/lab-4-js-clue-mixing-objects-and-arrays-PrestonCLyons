@@ -1,0 +1,32 @@
+html {
+    background-image: url(clueGameBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 96;
+}
+
+h2 {
+    text-align: center;
+    font-size: 48;
+}
+
+button {
+    width: 15%;
+    height: 15%;
+    font-size: 32;
+    background-color: gray;
+    color: white;
+}
+
+#buttons {
+    text-align: center;
+}
+
+mark { 
+    background-color: gray;
+    color: white;
+}
